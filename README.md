@@ -4,6 +4,4 @@ Repositorios com clones de interfaces de programas conhecidos!!
 
 ## Interfaces clonadas
 - [x] Twitter Responsivo
-- [o] Piperfy com Drag n' Drop
-- [] Discord
-- [] Tesla Homepage
+- [x] Piperfy com Drag n' Drop (Em andamento)
